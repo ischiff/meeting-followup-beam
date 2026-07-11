@@ -1,7 +1,7 @@
 # Meeting Follow-Up Automator
 
-![App screenshot](top-screenshot.png)
-![App screenshot](bottom-screenshot.png)
+<img src="top-screenshot.png" alt="App screenshot" width="700">
+<img src="bottom-screenshot.png" alt="Review and send view" width="700">
 
 
 A small Streamlit app that turns pasted meeting notes into a reviewable list
