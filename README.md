@@ -146,7 +146,7 @@ live-syncs local file changes to a remote container instead of rebuilding on
 every change — worth using while tweaking the UI, then switching to
 `start_server.py` / `beam deploy` once it's stable.
 
-## What I'd build next (if I had more time)
+## Next steps
 
 - **LLM-based extraction** as an alternative to the regex parser, for notes
   that don't use consistent TODO/Action markers — probably as a toggle so
