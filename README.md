@@ -2,8 +2,8 @@
 
 <table>
 <tr>
-<td><img src="top-screenshot.png" alt="App screenshot" width="380"></td>
-<td><img src="bottom-screenshot.png" alt="Review and send view" width="380"></td>
+<td valign="top"><img src="top-screenshot.png" alt="App screenshot" height="420"></td>
+<td valign="top"><img src="bottom-screenshot.png" alt="Review and send view" height="420"></td>
 </tr>
 </table>
 
