@@ -59,13 +59,33 @@ Beam container). No `pandas` in this app as a result.
 
 ## Running it locally
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
+Because modern operating systems restrict global `pip` installations, it is highly recommended to run this app inside an isolated virtual environment.
 
-Open the URL Streamlit prints (usually `http://localhost:8501`). Paste some
-notes, e.g.:
+1. **Clone the repository and navigate into the directory:**
+   ```bash
+   cd meeting-followup-automator
+   ```
+
+2. **Set up and activate a virtual environment:**
+   ```bash
+   # Create the environment folder
+   python3 -m venv env
+
+   # Activate it (macOS/Linux)
+   source env/bin/activate
+
+   # Activate it (Windows PowerShell)
+   # .\env\Scripts\Activate.ps1
+   ```
+
+3. **Install dependencies and launch the app:**
+   ```bash
+   pip install -r requirements.txt
+   streamlit run app.py
+   ```
+
+Open the URL Streamlit prints (usually `http://localhost:8501`). Paste some notes, e.g.:
+
 
 ```
 TODO: Sarah to send the revised proposal by Friday
