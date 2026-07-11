@@ -2,11 +2,11 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
-  <img src="top-screenshot.png" alt="App screenshot" height="350" style="max-width: 100%;">
+<td valign="top" width="50%" align="center">
+  <img src="top-screenshot.png" alt="App screenshot" height="300">
 </td>
-<td valign="top" width="50%">
-  <img src="bottom-screenshot.png" alt="Review and send view" height="350" style="max-width: 100%;">
+<td valign="top" width="50%" align="center">
+  <img src="bottom-screenshot.png" alt="Review and send view" height="300">
 </td>
 </tr>
 </table>
