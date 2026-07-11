@@ -1,6 +1,8 @@
 # Meeting Follow-Up Automator
 
 ![App screenshot](top-screenshot.png)
+![App screenshot](bottom-screenshot.png)
+
 
 A small Streamlit app that turns pasted meeting notes into a reviewable list
 of action items (with owner + deadline guesses), lets you edit them, and
